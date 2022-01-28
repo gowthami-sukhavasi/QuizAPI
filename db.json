@@ -3,13 +3,6 @@
 		"category": "General Knowledge",
 		"type": "multiple",
 		"difficulty": "easy",
-		"question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
-		"correct_answer": "Demolition",
-		"incorrect_answers": ["The Dream Team", "The Bushwhackers", "The British Bulldogs"]
-	}, {
-		"category": "General Knowledge",
-		"type": "multiple",
-		"difficulty": "easy",
 		"question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
 		"correct_answer": "Subscriber",
 		"incorrect_answers": ["Single", "Secure", "Solid"]
@@ -17,23 +10,9 @@
 		"category": "General Knowledge",
 		"type": "multiple",
 		"difficulty": "easy",
-		"question": "Which one of the following rhythm games was made by Harmonix?",
-		"correct_answer": "Rock Band",
-		"incorrect_answers": ["Meat Beat Mania", "Guitar Hero Live", "Dance Dance Revolution"]
-	}, {
-		"category": "General Knowledge",
-		"type": "multiple",
-		"difficulty": "easy",
 		"question": "Who is depicted on the US hundred dollar bill?",
 		"correct_answer": "Benjamin Franklin",
 		"incorrect_answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson"]
-	}, {
-		"category": "General Knowledge",
-		"type": "multiple",
-		"difficulty": "easy",
-		"question": "Which one of these is not a typical European sword design?",
-		"correct_answer": "Scimitar",
-		"incorrect_answers": ["Falchion", "Ulfberht", "Flamberge"]
 	}, {
 		"category": "General Knowledge",
 		"type": "multiple",
