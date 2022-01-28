@@ -25,13 +25,6 @@
 		"category": "General Knowledge",
 		"type": "multiple",
 		"difficulty": "easy",
-		"question": "How many furlongs are there in a mile?",
-		"correct_answer": "Eight",
-		"incorrect_answers": ["Two", "Four", "Six"]
-	}, {
-		"category": "General Knowledge",
-		"type": "multiple",
-		"difficulty": "easy",
 		"question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
 		"correct_answer": "Liver",
 		"incorrect_answers": ["Heart", "Stomach", "Intestines"]
